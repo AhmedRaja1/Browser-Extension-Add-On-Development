@@ -37,6 +37,25 @@ Extensions / Add-Ons development for browsers. A complete boilerplate to get sta
 - see the extension next to address bar and pin it.
 
 <br />
+## Step 4. Create popup page
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input id="text" type="number">
+    <button id="btn">submit</button>
+  </div>
+</body>
+</html>
+```
 
 ## Step 4. Create popup page
 
